@@ -8,9 +8,14 @@ html {
 }
 
 nav li a {
-  color: #005e76;
+  color: #0084a6;
   text-decoration: none;
   border-bottom: 1px solid #0084a6;
+}
+
+nav li a:hover {
+  color: #005e76;
+  border-color: #005e76;
 }
 
 .main-border {

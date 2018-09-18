@@ -12,3 +12,13 @@ nav li a {
   text-decoration: none;
   border-bottom: 1px solid #0084a6;
 }
+
+.main-border {
+  border-width: 1px 0 1px 0;
+  border-color: #e2e2e2;
+  border-style: solid;
+}
+
+.btn-ghost {
+  border-color: #0084a6;
+}

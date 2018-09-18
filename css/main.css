@@ -14,11 +14,18 @@ nav li a {
 }
 
 .main-border {
-  border-width: 1px 0 1px 0;
+  border-width: 1px 0;
   border-color: #e2e2e2;
   border-style: solid;
 }
 
 .btn-ghost {
+  color: #0084a6;
+  border-color: #0084a6;
+}
+
+.btn-ghost:hover {
+  background: #8bc9d9;
+  color: #0084a6;
   border-color: #0084a6;
 }
